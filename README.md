@@ -57,7 +57,7 @@
 - graph
 - hash table
 
-### how to choose a data structure
+### how to choose a data structure?
 - supported operations
 - computational complexity（计算复杂度）
 - programming elegance（编程优雅）
