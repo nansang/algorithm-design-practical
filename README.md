@@ -2,13 +2,14 @@
 
 ## organizing, processing, retrieving, storing data 
 
-### how are data structures used?
-### characteristics of data structures
-### data types
-### types of data structures
-### how to choose a data structure
-### five factors to consider
----
+### **data problem**
+- how are data structures used?
+- characteristics of data structures
+- data types
+- types of data structures
+- how to choose a data structure
+- five factors to consider
+
 ### how are data structures used?
 - storing data
     - database management system
