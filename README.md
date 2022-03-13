@@ -20,3 +20,11 @@
 - tree
 - graph
 - hash table
+
+### kinds of problem
+- Operations with Lists
+- Dynamic Programming
+- Sorting
+- Mathematics
+- String Problems
+- Graph Theory
