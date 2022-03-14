@@ -28,3 +28,7 @@
 - Mathematics
 - String Problems
 - Graph Theory
+
+### How To Find a Solution
+- [HiredInTech](https://www.hiredintech.com/classrooms/algorithm-design/lesson/80)
+- [TopCoder](https://www.topcoder.com/thrive/articles/How%20To%20Find%20a%20Solution)
